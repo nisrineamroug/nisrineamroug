@@ -5,7 +5,6 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Creating scalable apps since 2022<br>
 📚 I'm currently learning advanced AI & Data Science at EMSI<br>
 🎯 Goals: Build standout SaaS solutions blending innovation with reliability, Experimenting with emerging AI technologies
  <br>
