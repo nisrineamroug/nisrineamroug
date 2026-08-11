@@ -1,6 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Nisrine and I'm a Software Engineering Engineering student specialized in AI & data science & An Emerging Tech Solutions Architect, from Morocco.</p>
+<p align="left">My name is Nisrine and I'm a Software Engineering Engineering student specialized in AI & data science & An Emerging Tech Solutions Architect, from Morocco.
+ check out my portfolio : https://www.nisrineamroug.dev/ </p>
 
 <h2 align="left">About me</h2>
 
