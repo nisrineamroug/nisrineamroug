@@ -7,7 +7,7 @@
 
 <p align="left">
 📚 I'm currently learning advanced AI & Data Science at EMSI<br>
-🎯 Goals: AI research on model optimization, infrastructure, and applied impact, Experiment with emerging AI technologies, Build standout SaaS solutions blending innovation with reliability
+🎯 Goals: AI research on model optimization, infrastructure, and applied impact. Experiment with emerging AI technologies. Build standout SaaS solutions blending innovation with reliability
  <br>
 <!--🎲 Fun fact: -->
 </p>
