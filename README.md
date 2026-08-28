@@ -1,13 +1,13 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Nisrine and I'm a Software Engineering Engineering student specialized in AI & data science & An Emerging Tech Solutions Architect, from Morocco.
+<p align="left">My name is Nisrine and I'm a Software Engineering Engineering student specialized in AI & data science, from Morocco.
  check out my portfolio : https://www.nisrineamroug.dev/ </p>
 
 <h2 align="left">About me</h2>
 
 <p align="left">
 📚 I'm currently learning advanced AI & Data Science at EMSI<br>
-🎯 Goals: Build standout SaaS solutions blending innovation with reliability, Experimenting with emerging AI technologies
+🎯 Goals: AI research on model optimization, infrastructure, and applied impact, Experiment with emerging AI technologies, Build standout SaaS solutions blending innovation with reliability
  <br>
 <!--🎲 Fun fact: -->
 </p>
